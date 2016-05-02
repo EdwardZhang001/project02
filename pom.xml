@@ -10,6 +10,7 @@
   <modules>
       <module>Restaurant</module>
       <module>Kitchen</module>
+	  <module>NewModule1</module>
   </modules>
 
 </project>
